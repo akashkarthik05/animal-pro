@@ -1,4 +1,4 @@
-name: workflow
+name: CI/CD Pipeline for wildlife endengered animal detection
 
 on:
   push:
